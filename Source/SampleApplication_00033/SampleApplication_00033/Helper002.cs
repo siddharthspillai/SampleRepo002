@@ -8,5 +8,9 @@ namespace SampleApplication_00033
 {
     class Helper002
     {
+        public Helper002()
+        {
+
+        }
     }
 }
