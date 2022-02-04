@@ -8,6 +8,7 @@ namespace SampleApplication_00033
 {
     class Helper001
     {
+        public int MyProperty { get; set; }
         public Helper001()
         {
 
